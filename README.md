@@ -393,7 +393,7 @@ ______________________________________
 (Rdruid, Hpriest > Others)
 
 [Phylactery of the Nameless Lich](https://wotlk.evowow.com/?item=50365):
-[Casters except , Affli, Arcane)
+[Casters except Arcane)
 
 [Sindragosa’s Flawless Fang](https://wotlk.evowow.com/?item=50364):
 (TANK)
