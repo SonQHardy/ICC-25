@@ -76,7 +76,7 @@ ______________________________________
 (DPS casters)
 
 [Ahn’kahar Onyx Neckguard](https://wotlk.evowow.com/?item=50647):
-(UDK, Ret, Fury > FDK)
+(UDK, Ret > Fury, FDK, Bdk(DPS))
 
 [Juggernaut Band](https://wotlk.evowow.com/?item=50642):
 (TANK)
