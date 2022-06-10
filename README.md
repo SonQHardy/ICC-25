@@ -404,7 +404,7 @@ ______________________________________
 (AssaRogue)
 
 [Bloodsurge, Kel'Thuzad's Blade of Agony](https://wotlk.evowow.com/?item=50732):
-(Mage, Warlock > Hpah)
+(Mage, Warlock, Hpah)
 
 [Glorenzelg, High-Blade of the Silver Hand](https://wotlk.evowow.com/?item=50730):
 (Fury, BDK, Ret> Others )
@@ -413,7 +413,7 @@ ______________________________________
 (FDK, Enha, Combat > Others)
 
 [Royal Scepter of Terenas II](https://wotlk.evowow.com/?item=50734):
-(Hpal, Spriest, boomy, rdru, Hpriest, DisPriest) 
+(Spriest, boomy, DisPriest > Hpal, Rdru, Hpriest) 
 
 [Mithrios, Bronzebeard's Legacy](https://wotlk.evowow.com/?item=50738):
 (TANK)
