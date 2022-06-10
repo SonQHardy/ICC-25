@@ -111,7 +111,7 @@ ______________________________________
 (UDK,Rpal > other)
 
 [Amulet of Silent Eulogy](https://wotlk.evowow.com/?item=50658):
-(Spriest, Warlocks > Others)
+(Spriest, Warlocks, Aracan > Others)
 
 [Ring of Rapid Ascent](https://wotlk.evowow.com/?item=50664):
 (DPS Casters, rsham, hpal)
@@ -190,8 +190,7 @@ ______________________________________
 (DKs > Fury > others)
 
 [Distant Land](https://wotlk.evowow.com/?item=50695):
-(Cat > others)
-
+(Cat, BM > others)
 [Black Bruise](https://wotlk.evowow.com/?item=50692):
 (EnhShaman > others)
 
@@ -228,7 +227,7 @@ ______________________________________
 (Bear > Ret, Rogue, Cat, Enha)
 
 [Dislodged Foreign Object](https://wotlk.evowow.com/?item=50348):
-(Affli, Arcane > Others)
+(Affli, Arcane > SPriest > Others)
 
 [Trauma](https://wotlk.evowow.com/?item=50685):
 (Rdruid, Hpriest, Rsham > Hpala, Disc)
@@ -243,7 +242,7 @@ ______________________________________
 (TANK)
 
 [Dual-Bladed Pauldrons](https://wotlk.evowow.com/?item=50673):
-(> EnhShman > others)
+(BM > EnhShman > others)
 
 [Helm of the Elder Moon](https://wotlk.evowow.com/?item=50679):
 (unnecessary thing, there is another priority t10|непотрібна річ, є інший пріоритет т10)
@@ -260,7 +259,7 @@ ______________________________________
 (Rdruid > Boomie)
 
 [Tiny Abomination in a Jar](https://wotlk.evowow.com/?item=50706):
-(Ret, Assa > Others)
+(Ret > Encha, Assa> Others)
 
 [Last Word](https://wotlk.evowow.com/?item=50708):
 (Ppaly > others Tank)
@@ -394,7 +393,7 @@ ______________________________________
 (Rdruid, Hpriest > Others)
 
 [Phylactery of the Nameless Lich](https://wotlk.evowow.com/?item=50365):
-[Casters except Sp, Affli, Arcane]
+[Casters except , Affli, Arcane)
 
 [Sindragosa’s Flawless Fang](https://wotlk.evowow.com/?item=50364):
 (TANK)
