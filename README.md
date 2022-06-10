@@ -14,7 +14,7 @@
 (Rdruid, Hpriest > Sp, TTW, Arc, Boomie, Affli, Demo > Disc)
 
 [Band of the Bone Colossus](https://wotlk.evowow.com/?item=50604):
-(Enha, Assa > Combat, Cat, Ret)
+(Enha, Assa, BM > Combat, Cat, Ret)
 
 [Loop of the Endless Labyrinth](https://wotlk.evowow.com/?item=50614):
 (DPS casters)
