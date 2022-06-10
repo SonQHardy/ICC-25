@@ -404,7 +404,7 @@ ______________________________________
 (AssaRogue)
 
 [Bloodsurge, Kel'Thuzad's Blade of Agony](https://wotlk.evowow.com/?item=50732):
-(Mage, Warlock, Hpah)
+(Mage, Warlock, Hpal)
 
 [Glorenzelg, High-Blade of the Silver Hand](https://wotlk.evowow.com/?item=50730):
 (Fury, BDK, Ret> Others )
