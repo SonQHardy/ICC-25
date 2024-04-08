@@ -413,7 +413,7 @@ ______________________________________
 (FDK, Enha, Combat > Others)
 
 [Royal Scepter of Terenas II](https://wotlk.evowow.com/?item=50734):
-(Spriest, boomy, DisPriest > Hpal, Rdru, Hpriest) 
+(Rshamy, Spriest, boomy, DisPriest > Hpal, Rdru, Hpriest) 
 
 [Mithrios, Bronzebeard's Legacy](https://wotlk.evowow.com/?item=50738):
 (TANK)
